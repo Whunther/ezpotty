@@ -13,7 +13,7 @@
     "versionFirst": "4.4.0",
     "uniqCompNum": 15,
     "versionPublish": "4.4.0",
-    "favicon": "@PROJECT_PATH@/assets/images/ez-128x128-1.png",
+    "favicon": "@PROJECT_PATH@/assets/images/ez-128x128-2.png",
     "noImageResize": ""
   },
   "pages": {
@@ -61,13 +61,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-305x48.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-203x33.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -111,7 +110,9 @@
           "_styles": {
             "H1": {
               "color": "#000000",
-              "font-size": "20px"
+              "font-size": "30px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             "P": {
               "color": "#000000",
@@ -434,8 +435,8 @@
             "showCaption": "noCaption",
             "showText": false,
             "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -528,7 +529,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-305x48.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-203x33.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "Mobirise",
