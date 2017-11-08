@@ -12,9 +12,11 @@
 }
 #header1-2 H1 {
   color: #000000;
+  font-size: 20px;
 }
 #header1-2 P {
   color: #000000;
+  font-size: 14px;
 }
 #msg-box4-5 .mbr-header__text {
   color: #ffffff;

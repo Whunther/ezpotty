@@ -13,7 +13,7 @@
     "versionFirst": "4.4.0",
     "uniqCompNum": 15,
     "versionPublish": "4.4.0",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/ez-128x128-1.png",
     "noImageResize": ""
   },
   "pages": {
@@ -110,10 +110,12 @@
           "_anchor": "header1-2",
           "_styles": {
             "H1": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "20px"
             },
             "P": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "14px"
             }
           }
         },
@@ -164,7 +166,7 @@
             }
           },
           "title": "ABOUT THE PRODUCT",
-          "text": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+          "text": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>",
           "_tags": [
             "Theme"
           ],
@@ -193,8 +195,8 @@
             "showTitles": true,
             "showCaptions": true,
             "showButtons": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "columns": 4,
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
@@ -233,7 +235,7 @@
             }
           },
           "title1": "LOREM IPSUM",
-          "caption1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+          "caption1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<br> ",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media2": {
             "image": {
